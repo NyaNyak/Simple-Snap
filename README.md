@@ -3,7 +3,8 @@
 ## 프로젝트 설명
 OpenCV Python을 활용하여 만든 간단한 동영상 스냅샷 생성기입니다.</br>
 1, 5, 10, 20, 30, 50, 100 단위로 섬세하고 자유로운 프레임 이동이 가능하기 때문에 원하는 스냅샷을 손쉽게 획득할 수 있습니다.</br>
-또한, 스냅샷 이미지에 간단한 효과를 다양하게 적용하여 각각 다른 이미지로 저장하는 것이 가능합니다.
+또한, 스냅샷 이미지에 간단한 효과를 다양하게 적용하여 각각 다른 이미지로 저장하는 것이 가능합니다.</br>
+결과 이미지 예시는 **[sample](https://github.com/NyaNyak/Simple-Snap/tree/master/sample)** 폴더에서 확인할 수 있습니다.
 
 ## 프로젝트 실행 방법
 
@@ -70,6 +71,7 @@ pip install opencv-python opencv-contrib-python
 - Editor 작업 중 `s`, `S` 키를 누르면 현재 적용된 효과 그대로 **[result](https://github.com/NyaNyak/Simple-Snap/tree/master/result)** 폴더에 이미지가 저장됩니다.
 
 ![image](https://user-images.githubusercontent.com/81071456/225611512-6baef540-465b-4831-b6eb-3c03fabdf393.png)
+
 
 ## 참조
 - https://github.com/mint-lab/cv_tutorial
