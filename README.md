@@ -6,6 +6,9 @@ OpenCV Python을 활용하여 만든 간단한 동영상 스냅샷 생성기입�
 또한, 스냅샷 이미지에 간단한 효과를 다양하게 적용하여 각각 다른 이미지로 저장하는 것이 가능합니다.</br>
 결과 이미지 예시는 **[sample](https://github.com/NyaNyak/Simple-Snap/tree/master/sample)** 폴더에서 확인할 수 있습니다.
 
+![image](https://user-images.githubusercontent.com/81071456/225622641-5dc0f2c6-371f-44ac-9a1b-72d2d354b166.png)
+
+
 ## 프로젝트 실행 방법
 
 - 아래와 같이 필요한 패키지를 설치합니다.
