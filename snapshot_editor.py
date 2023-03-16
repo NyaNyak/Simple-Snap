@@ -1,6 +1,5 @@
 import os
 import cv2 as cv
-import numpy as np
 
 #영상 파일 가져오기
 path = './data/'
